@@ -1,6 +1,6 @@
 ### Hello there :wave:
 
-I'm looking for Remote work in Rust and Systems/Backend programming, mid-senior level, full or part-time. For the past year I've been developing my Rust skills by contributing publicly here on GitHub.
+I'm looking for Remote work in Rust and Systems/Backend programming, mid to senior level, full or part-time. For the past year I've been developing my Rust skills by contributing publicly here on GitHub.
 
 My LinkedIn profile is [here](https://www.linkedin.com/in/neil-singh-067230262).
 
