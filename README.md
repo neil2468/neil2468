@@ -1,8 +1,8 @@
-Hello there & thank you for your visit!
+### Hello there :wave:
 
 I'm looking for Remote work in Rust and Systems/Backend programming, mid-senior level, full or part-time. For the past year I've been developing my Rust skills by contributing publicly here on GitHub.
 
-LinkedIn: []()
+My LinkedIn profile is [here](https://www.linkedin.com/in/neil-singh-067230262).
 
 ### About Me
 
@@ -16,3 +16,5 @@ I've lived in the UK, Spain, and Thailand and have worked with diverse people an
 I feel I'm approachable, responsible, detail-oriented, self-managing, and always looking to learn and understand.
 
 GALLUP StrengthsFinder: Responsibility, Intellection, Learner, Restorative, Deliberative.
+
+Thanks for being one of those special people who read to the end! :smile:
